@@ -32,6 +32,8 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ![Agent-DA7280-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DA7280-FeatherWing/master/Agent-DA7280-FeatherWing/images/Agent-DA7280-FeatherWing_prototop.png)
 
+![Agent-DA7280-FeatherWing](https://raw.githubusercontent.com/patternagents/Agent-DA7280-FeatherWing/master/Agent-DA7280-FeatherWing/images/Agent-DA7280-FeatherWing_prototop1.png)
+
 ---------------------------------------
 
 [![Agent-DA7280-FeatherWing Top](https://github.com/patternagents/Agent-DA7280-FeatherWing/blob/master/Agent-DA7280-FeatherWing/images/Agent-DA7280-FeatherWing_oshtop.png?raw=true)Agent-DA7280-FeatherWing Top](https://github.com/thingSoC/Agent-DA7280-FeatherWing/)
