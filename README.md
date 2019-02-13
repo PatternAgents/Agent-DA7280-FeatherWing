@@ -12,7 +12,7 @@ The PatternAgents "Featherwing & Grovey Series" were designed as "Everyday Elect
 
 ---------------------------------------
 
-* [DialogSemi DA7280L Haptic Driver](http://www.ti.com/lit/ds/symlink/DA7280l.pdf)
+* [DialogSemi DA7280-00F Haptic Driver](https://www.dialog-semiconductor.com/products/haptics/da7280)
 * [ADI ADXL345 Accelerometer](https://www.analog.com/media/en/technical-documentation/data-sheets/adxl345.pdf)
 * [FeatherWing I2C Compatible Module](https://learn.adafruit.com/adafruit-feather/feather-specification)
 * [Grove I2C Compatible Module](http://wiki.seeedstudio.com/Grove_System/)
